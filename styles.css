@@ -11,5 +11,9 @@ body {
 }
 
 .titleText {
-    margin-bottom: 3vh;
+    margin-bottom: 1vh;
+}
+
+.subtitleText {
+    margin-top: 1vh;
 }
