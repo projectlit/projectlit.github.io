@@ -1,7 +1,7 @@
 html {
     background-color: red;
     margin: 0;
-    height: 100vh;
+    height: 100%;
 }
 
 body {
@@ -17,9 +17,9 @@ body {
 }
 
 .titleText {
-    margin-bottom: 2px;
+    margin: 0 0 2px 0;
 }
 
 .subtitleText {
-    margin-top: 1px;
+    margin: 1px 0 0 0;
 }
