@@ -9,3 +9,7 @@ body {
 .titleBox {
     background-color: green;
 }
+
+.titleText {
+    margin-bottom: 3vh;
+}
