@@ -6,6 +6,7 @@ body {
     background-color: blue;
     text-align: center;
     height: 100vh;
+    margin 0;
 }
 
 .titleBox {
