@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-color: blue;
+    background-color: rgb(0, 179, 255);
     text-align: center;
     min-height: 100vh;
     margin: 0;
@@ -14,6 +14,7 @@ body {
 
 .titleBox {
     background-color: rgb(23, 210, 178);
+    border-radius: 20px;
 }
 
 .titleText {
