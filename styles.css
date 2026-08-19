@@ -27,13 +27,21 @@ body {
     border-bottom-right-radius: 20px;
 }
 
+#jichs {
+    height: 2vh;
+}
+
 .titleText {
     margin: 0 0 2px 0;
     line-height: 1;
 }
 
-#jichs {
-    height: 2vh;
+div {
+    height: 6vh;
+}
+
+.contentBox1 {
+    
 }
 
 .subtitleText {
